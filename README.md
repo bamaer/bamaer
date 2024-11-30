@@ -19,7 +19,7 @@
 
 - :mailbox: reach out: [![Linkedin Badge](https://img.shields.io/badge/-bmaertens-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bmaertens)
 
-- [Apache Hop](https://hop.apache.org) PMC member, contributor and co-founder. Founder at [know.bi](https://www.know-bi.be) (data engineering implementations) and co-founder at [Lean With Data](https://www.leanwithdata.com) (Apache Hop support, development).
+- [Apache Hop](https://hop.apache.org) PMC member, contributor and co-founder. Founder at [know.bi](https://www.know-bi.be) (Apache Hop development, support and data engineering implementations).
 
 ---
 
@@ -27,8 +27,6 @@
 
 <div height="40">
   <img src="https://hop.apache.org/img/hop-logo.svg" title="Apache Hop" alt="Apache Hop" height="40"/>&nbsp;
-  <img src="https://neo4j.com/wp-content/themes/neo4jweb/v2-templates/brand/assets/logo-section-4.svg" title="Neo4j" alt="Neo4j" height="40"/>&nbsp;
-  <img src="https://www.vertica.com/wp-content/uploads/2017/01/vertica_wht_rgb@2x-1.png" title="vertica" alt="vertica" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
